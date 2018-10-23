@@ -59,6 +59,8 @@ for i in dm_list:
 for t in thread_list:
     t.start()
 
+def get_nima(a,b):
+    return a+b
 
 
 #test_get_new
